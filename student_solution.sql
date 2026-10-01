@@ -1,4 +1,4 @@
-USE CollegeDB;
+
 
 CREATE TABLE department70(
     DepartmentID INT,
